@@ -4,7 +4,7 @@ git clone https:github.com/X-MarsHall/httpstatus
 
 nano s.txt
 
-put your http://example.com
+put your example.com
 
 php http.php
 
